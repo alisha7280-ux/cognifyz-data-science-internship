@@ -1,13 +1,18 @@
-# Cognifyz Data Science Internship – Level 1
+# Cognifyz Data Science Internship – Level 1 & 2
 
-This repository contains my completed Level 1 Data Analysis tasks.
+This repository contains my completed data analysis tasks as part of the Cognifyz Data Science Internship.
 
-## Tasks Covered
+## Level 1 Tasks
 - Data exploration and preprocessing
 - Missing value analysis
 - Aggregate rating distribution
 - Class imbalance identification
 - Geospatial analysis
+
+## Level 2 Tasks
+- Table booking and online delivery analysis
+- Price range analysis
+- Feature engineering
 
 ## Tools Used
 - Python
